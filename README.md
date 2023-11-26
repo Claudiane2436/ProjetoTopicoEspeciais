@@ -3,7 +3,12 @@
 Esse projeto foi desenvolvido  com o propósito de divulgar uma empresa ficticia de customização de carro
 
 Tecnologias Utilizadas: foi desenvolvido em React
+
+
 Lista das tecnologias usadas no Frontend: biblioteca bootstrap e jquery
+
+
+
 Especificação das versões de cada ferramenta/framework utilizado: 
     "bootstrap": "^5.3.2",
     "jquery": "^3.7.1",
