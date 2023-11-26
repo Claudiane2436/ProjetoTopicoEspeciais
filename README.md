@@ -1,6 +1,6 @@
 # ProjetoTopicoEspeciais
 
-Esse projeto foi desenvolvido  com o propósito de divulgar uma empresa ficticia de customização de carro
+Esse projeto foi desenvolvido  com o propósito de promover uma empresa ficticia de customização de carro e motos
 
 Tecnologias Utilizadas: foi desenvolvido em React
 
