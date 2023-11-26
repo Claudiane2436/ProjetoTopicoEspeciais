@@ -5,7 +5,12 @@ Esse projeto foi desenvolvido  com o propósito de divulgar uma empresa ficticia
 Tecnologias Utilizadas: foi desenvolvido em React
 
 
+
+
+
 Lista das tecnologias usadas no Frontend: biblioteca bootstrap e jquery
+
+
 
 
 
